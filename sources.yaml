@@ -1,0 +1,10 @@
+- filename: DBLP.bib
+  search_type: FEED
+  source_name: Communications of the Association for Information Systems
+  source_url: ''
+  search_parameters: 
+    - endpoint: dblp
+      params: 
+        venue_key: journals/cais
+        journal_abbreviated: Commun. Assoc. Inf. Syst.
+  comment: ''
