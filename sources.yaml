@@ -8,3 +8,11 @@
         venue_key: journals/cais
         journal_abbreviated: Commun. Assoc. Inf. Syst.
   comment: ''
+- filename: pdfs.bib
+  search_type: PDFS
+  source_name: CAIS
+  source_url: pdfs
+  search_parameters: NA
+  comment: NA
+  outlet: journal=Communications of the Association for Information Systems
+  sub_dir_pattern: volume
