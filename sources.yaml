@@ -16,3 +16,11 @@
   comment: NA
   outlet: journal=Communications of the Association for Information Systems
   sub_dir_pattern: volume
+- filename: CROSSREF.bib
+  search_type: FEED
+  source_name: Communications of the Association for Information Systems
+  source_url: ''
+  search_parameters: 
+    - endpoint: crossref
+      params:
+        journal_issn: '1529-3181'
