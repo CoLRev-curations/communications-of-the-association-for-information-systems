@@ -4,9 +4,7 @@
   source_url: ''
   search_parameters: 
     - endpoint: dblp
-      params: 
-        venue_key: journals/cais
-        journal_abbreviated: Commun. Assoc. Inf. Syst.
+      params: SCOPE venue_key='journals/cais' AND journal_abbreviated='Commun. Assoc. Inf. Syst.'
   comment: ''
 - filename: pdfs.bib
   search_type: PDFS
@@ -22,5 +20,4 @@
   source_url: ''
   search_parameters: 
     - endpoint: crossref
-      params:
-        journal_issn: '1529-3181'
+      params: SCOPE journal_issn='1529-3181'
