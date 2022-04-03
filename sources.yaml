@@ -6,14 +6,6 @@
     - endpoint: dblp
       params: SCOPE venue_key='journals/cais' AND journal_abbreviated='Commun. Assoc. Inf. Syst.'
   comment: ''
-- filename: pdfs.bib
-  search_type: PDFS
-  source_name: CAIS
-  source_url: pdfs
-  search_parameters: NA
-  comment: NA
-  outlet: journal=Communications of the Association for Information Systems
-  sub_dir_pattern: volume
 - filename: CROSSREF.bib
   search_type: FEED
   source_name: Communications of the Association for Information Systems
@@ -21,3 +13,11 @@
   search_parameters: 
     - endpoint: crossref
       params: SCOPE journal_issn='1529-3181'
+- filename: pdfs.bib
+  search_type: FEED
+  source_name: CAIS
+  source_url: pdfs
+  search_parameters:
+  - endpoint: pdfs_directory
+    params: SCOPE path='pdfs' WITH journal='Communications of the Association for Information Systems' AND sub_dir_pattern='volume'
+  comment: NA
