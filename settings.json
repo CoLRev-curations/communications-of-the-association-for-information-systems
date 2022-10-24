@@ -70,7 +70,7 @@
                     "subdir_pattern": "volume",
                     "type": "journal",
                     "journal": "Communications of the Association for Information Systems",
-                    "path": "pdfs"
+                    "path": "data/pdfs"
                 }
             },
             "load_conversion_package_endpoint": {
