@@ -16,9 +16,8 @@ colrev environment --install geritwagner/communications-of-the-association-for-i
 
 |TOC           |CROSSREF.bib    |DBLP.bib        |pdfs.bib        |all_merged      |
 |--------------|----------------|----------------|----------------|----------------|
-|UNKNOWN-26-UNKNOWN|               -|               -|             *2*|              NO|
-|2022-51--     |           *8*16|             *1*|            *42*|              NO|
-|2022-50--     |              38|               -|           *21*1|              NO|
+|2022-51--     |           *8*16|               1|           *34*7|              NO|
+|2022-50--     |              38|               -|           *4*18|              NO|
 |2021-49--     |              42|              42|            *7*9|              NO|
 |2021-48--     |              46|              47|              22|              NO|
 |2020-47--     |              35|              36|           *2*28|              NO|
@@ -53,7 +52,6 @@ colrev environment --install geritwagner/communications-of-the-association-for-i
 |2007-19--     |              40|              40|           *1*39|              NO|
 |2006-18--     |              37|              37|              35|              NO|
 |2006-17--     |              50|              50|              50|                |
-|2005-26--     |               -|               -|             *1*|              NO|
 |2005-16--     |              53|              53|              50|              NO|
 |2005-15--     |              42|              42|           *1*40|              NO|
 |2004-14--     |              33|              33|           *1*32|              NO|
