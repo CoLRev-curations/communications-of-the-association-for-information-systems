@@ -4,21 +4,27 @@ This curated repository is based on the [ColRev](https://github.com/geritwagner/
 
 - It provides curated metadata and PDF hashes.
 - Additional metadata should be curated in derivative repositories
-- Corrections are welcome and should be provided using a pull-request (e.g. using the `colrev environment --apply_corrections` convenience function)
+- Corrections are welcome and should be provided using a pull-request (e.g. using the `colrev push -r` convenience function)
 
 To install run
 
 ```
-colrev environment --install geritwagner/communications-of-the-association-for-information-systems
+colrev env --install geritwagner/communications-of-the-association-for-information-systems
 ```
 
 <!-- TABLE_SUMMARY -->
 
 |TOC           |CROSSREF.bib    |DBLP.bib        |pdfs.bib        |all_merged      |
 |--------------|----------------|----------------|----------------|----------------|
+|UNKNOWN-49-UNKNOWN|               -|               -|             *1*|              NO|
+|UNKNOWN-25-UNKNOWN|               -|               -|             *1*|              NO|
+|UNKNOWN-17-UNKNOWN|               -|               -|             *1*|              NO|
+|UNKNOWN-15-UNKNOWN|               -|               -|             *1*|              NO|
+|UNKNOWN-14-UNKNOWN|               -|               -|             *1*|              NO|
+|UNKNOWN-1-UNKNOWN|               -|               -|             *1*|              NO|
 |2022-51--     |              24|               1|              47|              NO|
 |2022-50--     |              38|               -|              38|              NO|
-|2021-49--     |              41|              41|              42|              NO|
+|2021-49--     |           *1*41|           *1*41|              42|              NO|
 |2021-48--     |              46|              47|              47|              NO|
 |2020-47--     |              35|              36|              36|              NO|
 |2020-46--     |              26|              28|              28|              NO|
@@ -44,7 +50,7 @@ colrev environment --install geritwagner/communications-of-the-association-for-i
 |2011-28--     |              36|              36|              36|                |
 |2010-27--     |              45|              45|              45|                |
 |2010-26--     |              27|              27|              27|                |
-|2009-25--     |              44|              44|              44|                |
+|2009-25--     |           *1*44|           *1*44|              44|              NO|
 |2009-24--     |              48|              48|              48|                |
 |2008-23--     |              36|              36|              36|                |
 |2008-22--     |              35|              35|              36|              NO|
@@ -52,10 +58,10 @@ colrev environment --install geritwagner/communications-of-the-association-for-i
 |2007-20--     |              60|              60|              60|                |
 |2007-19--     |              40|              40|              40|                |
 |2006-18--     |              35|              35|              35|                |
-|2006-17--     |              49|              49|              49|                |
+|2006-17--     |           *1*49|           *1*49|              49|              NO|
 |2005-16--     |              53|              53|              53|                |
-|2005-15--     |              40|              40|              40|                |
-|2004-14--     |              32|              32|              32|                |
+|2005-15--     |           *1*40|           *1*40|              40|              NO|
+|2004-14--     |           *1*32|           *1*32|              32|              NO|
 |2004-13--     |              40|              40|              40|                |
 |2003-12--     |              51|              51|              51|                |
 |2003-11--     |              35|              35|              35|                |
@@ -68,6 +74,6 @@ colrev environment --install geritwagner/communications-of-the-association-for-i
 |2000-4--      |              16|              16|              16|                |
 |2000-3--      |              18|              18|              18|                |
 |1999-2--      |              25|              25|              26|              NO|
-|1999-1--      |              19|              19|              18|              NO|
+|1999-1--      |           *1*19|           *1*19|              18|              NO|
 
 Legend: *md_imported*, md_processed, **pdf_prepared**
