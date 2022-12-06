@@ -16,15 +16,9 @@ colrev env --install geritwagner/communications-of-the-association-for-informati
 
 |TOC           |CROSSREF.bib    |DBLP.bib        |pdfs.bib        |all_merged      |
 |--------------|----------------|----------------|----------------|----------------|
-|UNKNOWN-49-UNKNOWN|               -|               -|             *1*|              NO|
-|UNKNOWN-25-UNKNOWN|               -|               -|             *1*|              NO|
-|UNKNOWN-17-UNKNOWN|               -|               -|             *1*|              NO|
-|UNKNOWN-15-UNKNOWN|               -|               -|             *1*|              NO|
-|UNKNOWN-14-UNKNOWN|               -|               -|             *1*|              NO|
-|UNKNOWN-1-UNKNOWN|               -|               -|             *1*|              NO|
-|2022-51--     |              24|               1|              47|              NO|
+|2022-51--     |           *8*24|               1|              47|              NO|
 |2022-50--     |              38|               -|              38|              NO|
-|2021-49--     |           *1*41|           *1*41|              42|              NO|
+|2021-49--     |           *1*41|           *1*41|           *1*42|              NO|
 |2021-48--     |              46|              47|              47|              NO|
 |2020-47--     |              35|              36|              36|              NO|
 |2020-46--     |              26|              28|              28|              NO|
@@ -50,7 +44,7 @@ colrev env --install geritwagner/communications-of-the-association-for-informati
 |2011-28--     |              36|              36|              36|                |
 |2010-27--     |              45|              45|              45|                |
 |2010-26--     |              27|              27|              27|                |
-|2009-25--     |           *1*44|           *1*44|              44|              NO|
+|2009-25--     |           *1*44|           *1*44|           *1*44|              NO|
 |2009-24--     |              48|              48|              48|                |
 |2008-23--     |              36|              36|              36|                |
 |2008-22--     |              35|              35|              36|              NO|
@@ -60,7 +54,7 @@ colrev env --install geritwagner/communications-of-the-association-for-informati
 |2006-18--     |              35|              35|              35|                |
 |2006-17--     |           *1*49|           *1*49|              49|              NO|
 |2005-16--     |              53|              53|              53|                |
-|2005-15--     |           *1*40|           *1*40|              40|              NO|
+|2005-15--     |           *1*40|           *1*40|           *1*40|              NO|
 |2004-14--     |           *1*32|           *1*32|              32|              NO|
 |2004-13--     |              40|              40|              40|                |
 |2003-12--     |              51|              51|              51|                |
