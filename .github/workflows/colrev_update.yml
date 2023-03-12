@@ -28,8 +28,8 @@ jobs:
           colrev prep --polish
           colrev dedupe
           colrev prescreen
-          colrev pdfs
           colrev screen
+          colrev data
           git push --set-upstream origin colrev-update
       - name: pull-request
         uses: repo-sync/pull-request@v2
