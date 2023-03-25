@@ -1,9 +1,12 @@
 *.bib.sav
-missing_pdf_files.csv
-manual_cleansing_statistics.csv
 venv
-.references_learned_settings
 .corrections.ipynb_checkpoints/
-pdfs
 data/.tei/
 __pycache__/
+.corrections
+data/pdfs
+.report.log
+__pycache__
+output
+data/pdf_get_man/missing_pdf_files.csv
+data/prep_man/records_prep_man.bib
