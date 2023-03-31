@@ -19,7 +19,7 @@ colrev env --install geritwagner/communications-of-the-association-for-informati
 |UNKNOWN-17-UNKNOWN|               -|               -|             *1*|              NO|
 |UNKNOWN-14-UNKNOWN|               -|               -|             *1*|              NO|
 |UNKNOWN-1-UNKNOWN|               -|               -|             *1*|              NO|
-|2023-52--     |             *7*|               -|               -|              NO|
+|2023-52--     |            *13*|               -|               -|              NO|
 |2022-52--     |               -|            *22*|               -|              NO|
 |2022-51--     |           *2*30|           *41*1|              43|              NO|
 |2022-50--     |              38|            *33*|              38|              NO|
