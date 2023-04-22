@@ -22,7 +22,7 @@ jobs:
       - name: Set branch name
         run: |
           echo "BRANCH_NAME=colrev-update-$(date '+%Y-%m-%d_%H-%M-%S')" >> $GITHUB_ENV
-          echo ${{ env.BRANCH_NAME }} 
+          echo ${{ env.BRANCH_NAME }}
       - name: Switch to branch ${{ env.BRANCH_NAME }}
         run: |
           git checkout -b ${{ env.BRANCH_NAME }}
