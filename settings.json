@@ -19,7 +19,7 @@
         "id_pattern": "three_authors_year",
         "share_stat_req": "processed",
         "delay_automated_processing": false,
-        "colrev_version": "0.9.0",
+        "colrev_version": "0.9.1",
         "auto_upgrade": true
     },
     "sources": [
@@ -33,9 +33,6 @@
                     "journal_abbreviated": "Commun. Assoc. Inf. Syst."
                 }
             },
-            "load_conversion_package_endpoint": {
-                "endpoint": "colrev.bibtex"
-            },
             "comment": ""
         },
         {
@@ -46,9 +43,6 @@
                 "scope": {
                     "journal_issn": "1529-3181"
                 }
-            },
-            "load_conversion_package_endpoint": {
-                "endpoint": "colrev.bibtex"
             },
             "comment": ""
         },
@@ -63,9 +57,6 @@
                     "journal": "Communications of the Association for Information Systems",
                     "path": "data/pdfs"
                 }
-            },
-            "load_conversion_package_endpoint": {
-                "endpoint": "colrev.bibtex"
             },
             "comment": ""
         }
