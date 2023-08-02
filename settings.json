@@ -41,7 +41,7 @@
             "search_type": "DB",
             "search_parameters": {
                 "scope": {
-                    "journal_issn": "1529-3181"
+                    "issn": "1529-3181"
                 }
             },
             "comment": ""
