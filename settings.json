@@ -40,11 +40,8 @@
             "filename": "data/search/CROSSREF.bib",
             "search_type": "TOC",
             "search_parameters": {
-                "scope": {
-                    "issn": [
-                        "1529-3181"
-                    ]
-                }
+                "url": "https://api.crossref.org/journals/1529-3181/works",
+                "version": "1.0.0"
             },
             "comment": ""
         },
